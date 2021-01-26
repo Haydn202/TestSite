@@ -69,6 +69,24 @@ namespace TestSite
         protected global::System.Web.UI.WebControls.Button Showallbtn;
 
         /// <summary>
+        /// search control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button search;
+
+        /// <summary>
+        /// Searchname control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox Searchname;
+
+        /// <summary>
         /// ListBox1 control.
         /// </summary>
         /// <remarks>

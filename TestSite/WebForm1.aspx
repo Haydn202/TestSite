@@ -21,6 +21,9 @@
         <br />
         <br />
         <asp:Button ID="Showallbtn" runat="server" OnClick="Showallbtn_Click" Text="Show all" />
+        <asp:Button ID="search" runat="server" OnClick="search_Click" Text="Search" />
+        <br />
+        <asp:TextBox ID="Searchname" runat="server"></asp:TextBox>
         <br />
         <asp:ListBox ID="ListBox1" runat="server" Width="233px"></asp:ListBox>
     </form>
